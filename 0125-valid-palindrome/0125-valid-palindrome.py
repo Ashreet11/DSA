@@ -1,24 +1,24 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         # Initialize two pointers at the start and end of the string
-        left_index = 0
-        right_index = len(s) - 1
+        left = 0
+        right = len(s) - 1
       
         # Continue checking while the pointers haven't crossed
-        while left_index < right_index:
+        while left < right:
             # Skip non-alphanumeric character on the left
-            if not s[left_index].isalnum():
-                left_index += 1
+            if not s[left].isalnum():
+                left += 1
             # Skip non-alphanumeric character on the right
-            elif not s[right_index].isalnum():
-                right_index -= 1
+            elif not s[right].isalnum():
+                right -= 1
             # Check if characters don't match (case-insensitive)
-            elif s[left_index].lower() != s[right_index].lower():
+            elif s[left].lower() != s[right].lower():
                 return False
             # Characters match, move both pointers inward
             else:
-                left_index += 1
-                right_index -= 1
+                left += 1
+                right -= 1
       
         # All characters matched successfully
         return True
