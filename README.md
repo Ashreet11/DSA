@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashreet11/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ashreet11/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Ashreet11/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Ashreet11/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ashreet11/DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashreet11/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashreet11/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashreet11/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ashreet11/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Ashreet11/DSA/tree/master/0053-maximum-subarray) |
 | [0647-palindromic-substrings](https://github.com/Ashreet11/DSA/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ashreet11/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashreet11/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ashreet11/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
